@@ -25,3 +25,4 @@ Where `4.4.0` is any version of openCV from 2.2 to 4.4.0
 ## IMPORTANT
 This installer should work for a fresh Jetson Nano that was build using the NVIDIA SD card image found here: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit. 
 - make sure that python 3.6(.9) is installed as this build only works using that. 
+- Ensure that NVIDIA Jetpack is installed using sudo apt commands (https://docs.nvidia.com/jetson/jetpack/install-jetpack/index.html)
